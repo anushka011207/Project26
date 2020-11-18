@@ -1,1 +1,1 @@
-# Project26
+This recipe is a brownie recipe that can be made in 1 hour.
